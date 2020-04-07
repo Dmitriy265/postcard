@@ -1,0 +1,20 @@
+body {
+  background-image: url("img/corona-banner.png");
+  background-size:cover;
+  cursor: none;
+}
+.banner img {
+  border: 6px solid blue;
+}
+.corona-text {
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.virusCount {
+  position: fixed;
+  top: 0;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 8px solid teal;
+}
+
